@@ -184,6 +184,80 @@ The user should refrain from clicking any suspicious links or downloading the at
 
 Cyber security awareness training will help the user to learn how to recognize phishing emails, websites, or other social engineering actions. It is one of the most effective preventive measures against phishing.
 
+# Baiting
+
+Baiting involves the use of some attractive or valuable item to lure victims. The attackers exploit human interest or thirst for freebies to trick victims into installing malware on their systems or divulging sensitive information.
+
+## Forms of Baiting
+
+### Physical Baiting
+
+Physical baiting occurs when an attacker leaves infected USB flash drive, CD, or any other form of storage in public areas like office or parking lot. A person might out of curiosity insert the item in his or her system thereby allowing the malware to spread.
+
+### Digital Baiting
+
+Digital baiting takes place on digital platforms. The attacker can provide some valuable files such as software, movie, video game, song or fake update of software to the victims and once the file is downloaded malware is installed on their system.
+
+## Real-World Case Study
+
+Several security experts have reported that most individuals connect any USB drives on their computers without identifying whether these devices are safe or not. Attackers have used this vulnerability to infect the networks of companies with malicious codes and access systems.
+
+## Protection Techniques
+
+- Do not use any USB drives or storage devices from unknown sources.
+- Download programs only from reliable and authentic sites.
+- Always keep the anti-virus program updated and scan the removable media devices before use.
+
+
+# Quid Pro Quo (Bonus)
+
+Quid pro quo attack is carried out by the attacker who offers something valuable to the victim, including services like technical support or some rewards. The attacker tries to trick the victim offering him/her to provide some confidential information.
+
+### How it Works
+
+The attacker can call the victim pretending to work in the IT department of his/her company and offer his/her to solve some problem with the computer system. In the course of communication, he/she will ask the victim to provide the password and username.
+
+### 7.3 Prevention
+
+- Do not exchange passwords or confidential information via telephone or emails.
+- Identify and validate the person requesting confidential information.
+- Inform the IT or security department about suspicious calls, emails, or messages.
+
+
+## 8. Comparison Table
+
+| Attack Type | Main Target | Psychological Factor Used | Best Defense Strategy |
+|-------------|-------------|--------------------------|----------------------|
+| Phishing | Credentials of user | Trust, urgency         | MFA and email validation |
+| Pretexting | Confidential information  | Authority and trust | Verify the requester’s identity |
+| Baiting | Computer users   | Greed, curiosity        | Safe downloading     |
+| Quid Pro Quo | Employees   | Reciprocity             | Share no information |
+
+## 9. Recommendations for Organizations
+
+### 9.1 Five Point List of Actions to Secure Employees’ Awareness
+
+1. Hold regular cybersecurity awareness training.
+2. Use Multi-Factor Authentication (MFA) in vital accounts.
+3. Authenticate identity when discussing sensitive information.
+4. Ask employees to report any suspicious email, message, or phone call.
+5. Simulate phishing attacks regularly to increase awareness about cybersecurity.
+
+## 10. Conclusion
+
+One of the most serious cybersecurity challenges is social engineering due to its nature because people rather than technical issues become targets for cyber criminals. Phishing, pretexting, baiting, and quid pro quo represent some kinds of social engineering that may result in financial losses, identity thefts, or data breaches. The combination of awareness and following cybersecurity practices decreases the risk of being affected by social engineering.
+
+
+## 11. References
+
+1. CISA (Cybersecurity and Infrastructure Security Agency) – https://www.cisa.gov
+2. SANS Institute Reading Room – https://www.sans.org/reading-room
+3. NIST (National Institute of Standards and Technology) – https://www.nist.gov
+4. Dark Reading – https://www.darkreading.com
+5. Wired – https://www.wired.com
+
+
+
  
 
 
